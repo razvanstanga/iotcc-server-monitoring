@@ -1,0 +1,20 @@
+{
+  "name": "server-monitoring",
+  "version": "1.0.0",
+  "main": "index.js",
+  "dependencies": {
+    "command_runner": "^1.2.0",
+    "mqtt": "^2.4.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Stanga Razvan <git@razvi.ro>",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "http://git.razvi.ro"
+  },
+  "description": ""
+}
